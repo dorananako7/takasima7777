@@ -94,7 +94,7 @@ body {
 .calendar-container {
     display: flex;
     width: 90%;
-    height: 100vh;
+    height: 950px;
     padding: 0;
     margin-left: 5%;
     background-color: #000000b8;
@@ -107,7 +107,7 @@ body {
 }
 .calendar-box {
     width:90%;
-    height: 60vh;
+    height: 900px;
     margin-left: 1.5%;
     border: 1px solid;
     border-collapse: collapse;
